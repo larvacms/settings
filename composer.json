@@ -3,7 +3,7 @@
   "description": "This is larvacms settings module.",
   "keywords": [ "larvacms", "settings", "larva" ],
   "type": "library",
-  "license": "MIT",
+  "license": "Shareware",
   "require": {
     "illuminate/database": "^6.0 || ^7.0",
     "illuminate/support": "^6.0 || ^7.0"
